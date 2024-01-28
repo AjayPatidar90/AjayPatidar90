@@ -2,19 +2,19 @@
 ##Education 
 
   #Post graduation  
-                =   Presuing MCA Scope collage of Engineering Rgpv university from Bhopal
+                  Presuing MCA Scope collage of Engineering Rgpv university from Bhopal
 
    #Graduation 
-                 =  BCA  Dr apj abdul kalam university  from Indore ;
+                  BCA  Dr apj abdul kalam university  from Indore ;
 
     #12th  Board
-                 =   Divya convent H S school form Indore
+                  Divya convent H S school form Indore
 
     #10 th board
-                 =   unversal Academy H S School  from maksi
+                  unversal Academy H S School  from maksi
 
 ## skill
-                  =   #Mern stack technology
+                    #Mern stack technology
                      #Html 
                      #Css
                      #javascript 
